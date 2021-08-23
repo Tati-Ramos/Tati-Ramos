@@ -1,35 +1,45 @@
 
 
-## Hi, I'm Tatiane Ramos!
+# Hi there ...
+ ##     I'm Tatiane Ramos!                      <img align="right" width="250" height="250" src="https://st.depositphotos.com/1005574/2215/v/600/depositphotos_22159317-stock-illustration-sunflower.jpg">
 
-- 🌱 I’m currently learning Java, Python, HTML, CSS, Javascript, Typescript and MySql.
 
- <div>
-  <a href="https://github.com/Tati-Ramos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tati-Ramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tati-Ramos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tati-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Tati-Java" height="30" width="40" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
-  <img align="center" alt="Tati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tati-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tati-MySql" height="30" width="40" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
-  
-     
-  
-</div>
-  
-  ##
- 
+
+:computer: I'm Fullstack Developer Beginner!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything. 
+
+:outbox_tray:  Goals: create a new project and find a new job.
+
+## About me
+
+
 <div> 
    <a href="https://instagram.com/tati_sr95" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:tatiane_sr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/tatiane-ramos-67bb29215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
+ <a href=https://github.com/Tati-Ramos><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
  
 </div>
+
+
+## Languages and Tools
+
+
+[![Tati-Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Tati-Ramos)](https://github.com/Tati-Ramos/github-readme-stats)
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue" />
+
+
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! 😊
+
+
+
 
