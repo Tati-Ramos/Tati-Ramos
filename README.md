@@ -30,9 +30,11 @@
 
 ## Languages and Tools
 
-
 [![Tati-Ramos GitHub stats](https://github-readme-stats.vercel.app/api?username=Tati-Ramos)](https://github.com/Tati-Ramos/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tati-Ramos&hide=Java,Phyton,Javascript,Html,Css)](https://github.com/Tati-Ramos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tati-Ramos)](https://github.com/Tati-Ramos/github-readme-stats)
+
+
+
 
 
 
