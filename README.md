@@ -21,7 +21,7 @@
 <div>
  
  " Ora, o verdadeiro artista é exatamente o contrário desse retrato tão divulgado quanto injusto. O verdadeiro artista é, antes de tudo, uma criatura fiel a uma vocação.
- *Leva um tempo enorme para descobri-la; outro tempo enorme para aprender, corrigir-se, livrar-se das involuntárias imitações, das possíveis influências, das traiçoeiras imperfeições.*  *Todo esse tempo luta com as circuntâncias, com os circuntantes, com as dificuldades financeiras, submetendo-se a duras provas até se afirmar na sua realização.*
+ *Leva um tempo enorme para descobri-la; outro tempo enorme para aprender, corrigir-se, livrar-se das involuntárias imitações, das possíveis influências, das traiçoeiras imperfeições.*  *Todo esse tempo luta com as circunstâncias, com os circunstantes, com as dificuldades financeiras, submetendo-se a duras provas até se afirmar na sua realização.*
  Esse é o grande exemplo de Portinari lega aos jovens, ao lado da grande obra que assinou. **Exemplo de paciência, perseverança, teimosia, tenacidade incansável**.
  Um trabalhador de sol a sol."
  
