@@ -6,7 +6,7 @@
 
 
 
-:computer: I'm Fullstack Developer Beginner!
+:computer: I'm Developer Beginner!
 
 :house_with_garden: I’m from Brazil.
 
