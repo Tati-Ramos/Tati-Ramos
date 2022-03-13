@@ -12,8 +12,6 @@
 
 :books: I’m currently learning everything. 
 
-:outbox_tray:  Goals: create a new project and find a new job.
-
  ❤ Lover of Technology and Nature 🌱 
 
 ## About me
