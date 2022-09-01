@@ -6,7 +6,7 @@
 
 
 
-:computer: I'm Test Analyst!
+:computer: I'm a Test Analyst!
 
 :house_with_garden: I’m from Brazil.
 
