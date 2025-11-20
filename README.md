@@ -1,16 +1,13 @@
 
 
 # Hi there! 🌎
- ##     I'm Tatiane Ramos!                      
- <img align="right" width="200" height="200" src="https://st.depositphotos.com/1005574/2215/v/600/depositphotos_22159317-stock-illustration-sunflower.jpg">
-
-
+ ##     I'm Tatiane Ramos!      
 
 :computer: I'm a Test Analyst!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning programming language. 
+:books: I’m currently learning IA and automation. 
 
  ❤ Lover of Technology and Nature 🌱 
 
@@ -18,7 +15,7 @@
 
 <div>
 
- I'm a Test Analyst.
+ I'm a Test Analyst SR.
 
  </div>
 
